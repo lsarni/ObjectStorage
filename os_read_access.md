@@ -25,7 +25,7 @@ An {{site.data.keyword.objectstorageshort}} user with an [admin role](/docs/serv
   </tr>
   <tr>
     <td> Read for all referers regardless of account affiliation </td>
-    <td> <code> .r,&#42;  </code> </td>
+    <td> <code> .r:&#42;  </code> </td>
   </tr>
   <tr>
     <td> Read and list for all referers and listing </td>
